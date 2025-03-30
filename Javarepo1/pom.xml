@@ -28,7 +28,6 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-//single line comment
 	<build>
 		<plugins>
 			<plugin>
